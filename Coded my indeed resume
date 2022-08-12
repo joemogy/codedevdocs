@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Coded my Indeed Resume</title>
+</head>
+<body>
+        <h1>Joseph Mogavero</h1>
+        <h4><strong>Full-Stack Development</strong></h4>
+        <h4>Toronto, ON M4J3S4</h4>
+        <h4>Joseph.Mogavero@hotmail.com</h4>
+    <p>
+        <H2>Work Experiece</H2>
+        <h3><strong>Labourer/Operator/Supervisor</strong></h3>
+        <h4>Jobi Contracting - Toronto, ON </h4>
+        <h4>January 2022 to Present</h4>
+        <h4>Labourer/Operator/Supervisor of large scale unionized construction environment/jobsite</h4>
+    </p>
+    <p>
+        <H2>Education</H2>
+        <h3><strong>Online Course in (Penetration-Testing) The Complete Ethical Hacking Course:
+            Beginner to Advanced!</strong></h3>
+        <h4>Udemy By: Ermin Kreponic, Aldin Omerdic - Remote </h4>
+        <h4>August 2022 to Present</h4>
+        <h4></h4>
+
+        <h3><strong>University certificate in Computer Science, FullStack Development</strong></h3>
+        <h4>University of Toronto - Toronto, ON</h4>
+        <h4>July 2022 to Present</h4>
+        <h4></h4>
+
+        <h3><strong>AEC / DEP or Skilled Trade Certificate (Blue Seal Trade)(JourneyPerson) in
+            Construction Craft Worker</strong></h3>
+        <h4>Liuna 506 Trainning centre - Richmond Hill, ON</h4>
+        <h4>January 2018 to Present</h4>
+        <h4></h4>
+
+        <h3><strong>Online Course in Full-Stack Web Development Bootcamp 2022</strong></h3>
+        <h4>Udemy by: Colt Steele - Remote</h4>
+        <h4>June 2022 to August 2022</h4>
+        <h4></h4>
+
+        <h3><strong>Full Stack Web Development & Blockchain Development</strong></h3>
+        <h4>Eat The Blocks - Remote</h4>
+        <h4>August 2021 to January 2022</h4>
+        <h4></h4>
+
+        <h3><strong>Certificate Psychology in Psychology</strong></h3>
+        <h4>George Brown College - Toronto, ON</h4>
+        <h4>June 2015 to September 2015</h4>
+        <h4></h4>
+    </p>
+    <p> 
+        <ol><h2>Skills</h2>
+
+            <li><h3>Heavy Equipment Operation - 10+ years</h3></li>
+            <li><h3>Welding - 3 years</h3></li>
+            <li><h3>Soldering - 10+ years</h3></li>
+            <li><h3>HTML5 - 1 year</h3></li>
+            <li><h3>CSS - 1 year</h3></li>
+            <li><h3>JavaScript - 1 year</h3></li>
+            <li><h3>Node.js - 1 year</h3></li>
+            <li><h3>React - 1 year</h3></li>
+            <li><h3>jQuery - Less than 1 year</h3></li>
+            <li><h3>Express.js - Less than 1 year</h3></li>
+            <li><h3>MongoDB - 1 year</h3></li>
+            <li><h3>MySQL - Less than 1 year</h3></li>
+            <li><h3>Bootstrap - Less than 1 year</h3></li>
+            <li><h3></h3></li>
+            <li><h3>AWS - Less than 1 year</h3></li>
+            <li><h3></h3></li>
+            <li><h3>Solidity - 1 year</h3></li>
+            <li><h3>Git- 1 year</h3></li>
+            <li><h3>GitHub- 2 years</h3></li>
+            <li><h3>Linux - 3 years</h3></li>
+            
+        </ol>
+    </p>
+
+    <p>
+       <h2>Links</h2>
+       <h3><a href="https://github.com/joemogy">https://github.com/joemogy</a></h3> 
+    </p>
+
+    <p>
+        <h2>Certifications / Licenses</h2>
+
+        <h3><strong>Full-Stack Web Development</strong></h3>
+        <h3>August 2022 to Present</h3>
+        <h3>University of Toronto School of continuing Studies Coding Bootcamp, Certificate Full-stack web development</h3> 
+
+        <h3><strong>G Driver's License</strong></h3>
+        <h3>February 2013 to Present</h3>
+        <h3>Valid G class Driver Ontario Canada</h3> 
+
+     </p>
+        
+
+</body>
+<footer>
+    <h5>coded into HTML5 by hand by Joseph Mogavero</h5>
+
+</footer>
+</html>
